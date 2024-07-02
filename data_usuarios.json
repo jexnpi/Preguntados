@@ -1,0 +1,12 @@
+{
+    "puntaje": [
+        {
+            "nombre": "Camila",
+            "score": 100
+        },
+        {
+            "nombre": "Dario",
+            "score": 60
+        }
+    ]
+}
